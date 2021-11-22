@@ -1,0 +1,11 @@
+.clima {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  background-color: rgba(250, 244, 244, 0.801);
+}
+/*# sourceMappingURL=index.css.map */
